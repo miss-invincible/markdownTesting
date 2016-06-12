@@ -25,4 +25,10 @@ till here
   1. give two spaces
   2. another one
 - second
-  1. yeah
+  *yeah
+  *yohoo
+
+
+-[x]done
+-[]not done
+  
