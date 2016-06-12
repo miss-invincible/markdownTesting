@@ -50,5 +50,5 @@ this is emogi :star: [this is link to cheat sheet] (http://www.emoji-cheat-sheet
 ![GitHub Logo](/images/logo.png) <br>
 ![gif testing](https://media.giphy.com/media/l0K4lKS7Ob7RUkIZa/giphy.gif)
 
-@miss-invincible yo
+
 
