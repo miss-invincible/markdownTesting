@@ -9,8 +9,6 @@ this is a [google link] (https://www.google.co.in/) <br>
  >this is a quoted text <br>
  >another line :P
  
- '''
- this is another block<br>
+```this is another block<br>
  it continues<br>
- till here
- '''
+ till here```
