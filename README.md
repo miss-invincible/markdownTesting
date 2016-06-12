@@ -43,6 +43,6 @@ this is emogi :star: [this is link to cheat sheet] (http://www.emoji-cheat-sheet
 |row2c1|row2c2|
 
 |heading1|heading2|heading3|
-|:---|---:|:---|
+|:---|---:|:---:|
 |left|right|center|
-|alignment|alignment|alignment|
+|its|colon's|magic|
