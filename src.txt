@@ -1,0 +1,42 @@
+level1 
+level2 
+
+level3 
+
+so on 
+
+this is a google link 
+this is bold 
+this is italics 
+this is strike through 
+this is mixure in words of shivangi:
+
+this is a quoted text 
+another line :P
+this is another block
+it continues
+till here
+this is a list
+another one
+
+this is order list
+another one :)
+
+a nested list
+give two spaces
+another one
+second *yeah *yohoo
+
+ done
+
+ not done
+this is emogi :star: this is link to cheat sheet
+
+column1	column2
+row1c1	row1c2
+row2c1	row2c2
+heading1	heading2	heading3
+left	right	center
+its	colon's	magic
+GitHub Logo 
+gif testing
