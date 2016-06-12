@@ -25,11 +25,12 @@ till here
   1. give two spaces
   2. another one
 - second
-  * yeah
-  * yohoo
+  *yeah
+  *yohoo
 
 
 - [x] done
 - [ ] not done
   
 @ miss-invincible hello :)
+was
