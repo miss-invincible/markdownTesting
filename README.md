@@ -32,4 +32,4 @@ till here
 - [x] done
 - [ ] not done
   
-@github/miss-invincible hello :)
+this is emogi :star: [this is link to cheat sheet] (http://www.emoji-cheat-sheet.com/)
