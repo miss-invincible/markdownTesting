@@ -46,3 +46,7 @@ this is emogi :star: [this is link to cheat sheet] (http://www.emoji-cheat-sheet
 |:---|---:|:---:|
 |left|right|center|
 |its|colon's|magic|
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
