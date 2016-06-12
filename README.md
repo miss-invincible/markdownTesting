@@ -48,5 +48,7 @@ this is emogi :star: [this is link to cheat sheet] (http://www.emoji-cheat-sheet
 |its|colon's|magic|
 
 ![GitHub Logo](/images/logo.png) <br>
-Format: ![Alt Text](https://media.giphy.com/media/l0K4lKS7Ob7RUkIZa/giphy.gif)
+![gif testing](https://media.giphy.com/media/l0K4lKS7Ob7RUkIZa/giphy.gif)
+
+@miss-invincible yo
 
