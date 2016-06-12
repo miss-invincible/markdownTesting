@@ -36,3 +36,8 @@ till here
 - [ ] not done
   
 this is emogi :star: [this is link to cheat sheet] (http://www.emoji-cheat-sheet.com/)
+
+|column1|column2|
+|---|---|
+|row1c1|row1c2|
+|row2c1|row2c2|
